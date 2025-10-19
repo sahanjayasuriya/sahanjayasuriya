@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I'm passionate about Trains and Cricket**
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5212485" style='border:none;'></iframe>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahanjayasuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahanjayasuriya" height="30" width="40" /></a>
