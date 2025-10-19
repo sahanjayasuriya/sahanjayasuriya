@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I'm passionate about Trains and Cricket**
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5212485" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/sahanjay.png" alt="Your Image Badge" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
