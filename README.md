@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact@sahanj.me**
 
-- 📄 Know about my experiences [https://sahanj.me](https://sahanja.me)
+- 📄 Know about my experiences [https://sahanj.me](https://sahanj.me)
 
 - ⚡ Fun fact **I'm passionate about Trains and Cricket**
 
