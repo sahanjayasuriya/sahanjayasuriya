@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sahan Jayasuriya</h1>
 <h3 align="center">A passionate full stack developer from Colombo, Sri Lanka</h3>
 
-- 👨‍💻 All of my projects are available at [https://sahanjayasuriya.com](https://sahanjayasuriya.com)
+- 👨‍💻 All of my projects are available at [https://sahanj.me](https://sahanj.me)
 
 - 📝 I regularly write articles on [https://medium.com/@sahanj](https://medium.com/@sahanj)
 
 - 💬 Ask me about **java, angular, vue and aws**
 
-- 📫 How to reach me **contact@sahanjayasuriya.com**
+- 📫 How to reach me **contact@sahanj.me**
 
-- 📄 Know about my experiences [https://sahanjayasuriya.com/#/resume](https://sahanjayasuriya.com/#/resume)
+- 📄 Know about my experiences [https://sahanj.me](https://sahanja.me)
 
 - ⚡ Fun fact **I'm passionate about Trains and Cricket**
 
